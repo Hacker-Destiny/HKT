@@ -594,7 +594,7 @@ b, strong {
 .section-home {
     height: 100vh;
     position: relative;
-    background-image: url("../my-images/home.jpg");
+    background-image: url("../my-images/home.jpeg");
     background-size: cover;
     background-position: center;
 }
