@@ -69,10 +69,10 @@ body{
 
 .container .card .imgBx img{
   position: absolute;
-  top: 50%;
+  top: 40%;
   left: 50%;
-  transform: translate(-50%, -50%) rotate(-25deg);
-  width: 270px;
+  transform: translate(-50%, -50%) rotate(0deg);
+  width: 200px;
 }
 
 .container .card .contentBx{
