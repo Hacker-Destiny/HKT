@@ -41,7 +41,7 @@ body{
 
 
 .container .card:after{
-  content: 'user-id';
+  content: 'SAN';
   position: absolute;
   top: 30%;
   left: -20%;
@@ -69,10 +69,10 @@ body{
 
 .container .card .imgBx img{
   position: absolute;
-  top: 50%;
+  top: 40%;
   left: 50%;
-  transform: translate(-50%, -50%) rotate(-25deg);
-  width: 270px;
+  transform: translate(-50%, -50%) rotate(0deg);
+  width: 210px;
 }
 
 .container .card .contentBx{
@@ -86,7 +86,7 @@ body{
 }
 
 .container .card:hover .contentBx{
-  height: 210px;
+  height: 220px;
 }
 
 .container .card .contentBx h2{
