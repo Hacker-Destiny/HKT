@@ -72,7 +72,7 @@ body{
   top: 40%;
   left: 50%;
   transform: translate(-50%, -50%) rotate(0deg);
-  width: 210px;
+  width: 200px;
 }
 
 .container .card .contentBx{
