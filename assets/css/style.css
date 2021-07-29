@@ -129,16 +129,16 @@
   
   .social-icons2 li {
     display: inline-block;
-    margin: 0.15em;
+    margin: 0.20em;
     position: relative;
-    font-size: 1.5em;
+    font-size: 1.2em;
   }
   
   .social-icons2 i {
     color: #fff;
     position: absolute;
-    top: 0.95em;
-    left: 0.96em;
+    top: 0.94em;
+    left: 0.98em;
     transition: all 265ms ease-out;
   }
   
