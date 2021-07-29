@@ -39,13 +39,7 @@
     box-shadow: 0 10px 50px #950b09;
   }
 
-.draw-border {
-  box-shadow: inset 0 0 0 4px #58cdd1;
-  color: #58afd1;
-  -webkit-transition: color 0.25s 0.0833333333s;
-  transition: color 0.25s 0.0833333333s;
-  position: relative;
-}
+
 
 .draw-border::before,
 .draw-border::after {
@@ -113,7 +107,13 @@
 
 /* start */
 
-
+.draw-border2 {
+    box-shadow: inset 0 0 0 4px #fc575e;
+    color: #fc575e;
+    -webkit-transition: color 0.25s 0.0833333333s;
+    transition: color 0.25s 0.0833333333s;
+    position: relative;
+  }
   
   .draw-border2::before,
   .draw-border2::after {
