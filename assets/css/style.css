@@ -131,14 +131,14 @@
     display: inline-block;
     margin: 0.20em;
     position: relative;
-    font-size: 1.2em;
+    font-size: 1.3em;
   }
   
   .social-icons2 i {
     color: #fff;
     position: absolute;
-    top: 0.94em;
-    left: 0.98em;
+    top: 0.92em;
+    left: 0.99em;
     transition: all 265ms ease-out;
   }
   
