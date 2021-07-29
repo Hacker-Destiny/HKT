@@ -113,13 +113,7 @@
 
 /* start */
 
-.draw-border2 {
-    box-shadow: inset 0 0 0 4px #fc575e;
-    color: #fc575e;
-    -webkit-transition: color 0.25s 0.0833333333s;
-    transition: color 0.25s 0.0833333333s;
-    position: relative;
-  }
+
   
   .draw-border2::before,
   .draw-border2::after {
