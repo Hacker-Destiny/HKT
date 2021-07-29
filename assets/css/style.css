@@ -5,9 +5,8 @@
   grid-template-columns: 280px 280px;
   grid-gap: 0px;
   justify-content: center;
-  flex-direction: row;
   align-items: center;
-  height: 0vh;
+  height: 100px;
   background-color: #abb074;
   font-family: 'Baloo Paaji 2', cursive;
 }
