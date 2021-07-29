@@ -9,7 +9,7 @@
   
 .container {
   display: grid;
-  grid-template-columns: 280px;
+  grid-template-columns: 300px;
   justify-content: center;
   align-items: center;
   height: 100px;
@@ -131,7 +131,7 @@
     display: inline-block;
     margin: 0.15em;
     position: relative;
-    font-size: 1em;
+    font-size: 1.5em;
   }
   
   .social-icons2 i {
