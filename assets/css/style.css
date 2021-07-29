@@ -39,6 +39,8 @@
     box-shadow: 0 10px 50px #950b09;
   }
 
+/*Button */
+
 .btn {
   background: none;
   border: none;
@@ -55,12 +57,7 @@
   outline: 2px dotted #55d7dc;
 }
 
-
-/*  end */
-
-
-/* start */
-
+/*Border animation*/
 .draw-border2 {
     box-shadow: inset 0 0 0 4px #fc575e;
     color: #fc575e;
@@ -116,14 +113,7 @@
   }
   
 
-/* end */
-
-/* style */
-
-/*end*/
-
-
-/* style1 */
+/* Icons animation */
 
 .social-icons2 {
     padding: 0;
@@ -182,6 +172,6 @@
 .grid-container {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  grid-gap: 20px;
+  grid-gap: 500px;
   font-size: 1.2em;
 }
